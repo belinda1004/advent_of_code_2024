@@ -38,5 +38,3 @@ for i, number in enumerate(sorted):
     checksum += number * i
 
 print(checksum)
-
-#
